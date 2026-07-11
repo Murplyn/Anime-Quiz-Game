@@ -9,9 +9,9 @@
 # At the end of the game, you'll receive a rank
 # based on your score:
 # 
-# 0–5  you are a  Anime Newbie
-# 6–8  you are a Average Anime Watcher
-# 9–10 you are a → Elite Anime Watcher
+# 0–5  you are an  Anime Newbie
+# 6–8  you are an Average Anime Watcher
+# 9–10 you are an Elite Anime Watcher
 # 
 # Good luck, and have fun!
 
